@@ -1,3 +1,5 @@
+![AWS CloudWatch Logs](https://cdn-images-1.medium.com/max/3840/1*80o6-Kki8tKG_2d5eO4E0w.png)
+
 ## Creating AWS CloudWatch Logs using .NET Console Application: A Step-by-Step Guide
 
 Welcome to this comprehensive guide on creating AWS CloudWatch Logs using a .NET Console Application. In this article, we will go through the process of setting up CloudWatch and logging events from a .NET Console Application. Whether you are new to AWS or a seasoned user, this guide will provide you with a clear understanding of how to monitor and manage your application logs in the AWS Cloud. Let’s get started!
